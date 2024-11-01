@@ -1,0 +1,34 @@
+﻿@model IsApp.Domain.DTO.AddPlayerToTeamViewModel
+
+@{
+    ViewData["Title"] = "Add Player To Team";
+}
+
+<h4>Add Player to Team</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddToTeam">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label for="TeamId" class="control-label">Team</label>
+                <select id="TeamId" name="SelectedTeamId" class="form-control">
+                    <option value="">Select a team</option>
+                    @foreach (var player in Model.Teams)
+                    {
+                        <option value="@player.Id">@player.Name</option>
+                    }
+                </select>
+                <span asp-validation-for="SelectedTeamId" class="text-danger"></span>
+            </div>
+
+            <!-- Hidden input for TeamId -->
+            <input type="hidden" name="PlayerId" id="PlayerId" value="@Model.Player.Id" />
+
+            <div class="form-group">
+                <input type="submit" value="Add Team" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

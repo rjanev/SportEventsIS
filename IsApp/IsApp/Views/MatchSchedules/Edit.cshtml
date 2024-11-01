@@ -1,0 +1,50 @@
+﻿@model IsApp.Domain.Models.MatchSchedule
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>MatchSchedule</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Date" class="control-label"></label>
+                <input asp-for="Date" class="form-control" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TeamId1" class="control-label"></label>
+                <input asp-for="TeamId1" class="form-control" />
+                <span asp-validation-for="TeamId1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TeamId2" class="control-label"></label>
+                <input asp-for="TeamId2" class="form-control" />
+                <span asp-validation-for="TeamId2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SportEventsId" class="control-label"></label>
+                <input asp-for="SportEventsId" class="form-control" />
+                <span asp-validation-for="SportEventsId" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\WebAppOnee\IsApp\Domain\bin\Debug\net8.0\IsApp.Domain.deps.json
+C:\Users\PC\Desktop\WebAppOnee\IsApp\Domain\bin\Debug\net8.0\IsApp.Domain.dll
+C:\Users\PC\Desktop\WebAppOnee\IsApp\Domain\bin\Debug\net8.0\IsApp.Domain.pdb
+C:\Users\PC\Desktop\WebAppOnee\IsApp\Domain\obj\Debug\net8.0\IsApp.Domain.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\WebAppOnee\IsApp\Domain\obj\Debug\net8.0\IsApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\WebAppOnee\IsApp\Domain\obj\Debug\net8.0\IsApp.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\WebAppOnee\IsApp\Domain\obj\Debug\net8.0\IsApp.Domain.AssemblyInfo.cs
+C:\Users\PC\Desktop\WebAppOnee\IsApp\Domain\obj\Debug\net8.0\IsApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\WebAppOnee\IsApp\Domain\obj\Debug\net8.0\IsApp.Domain.dll
+C:\Users\PC\Desktop\WebAppOnee\IsApp\Domain\obj\Debug\net8.0\refint\IsApp.Domain.dll
+C:\Users\PC\Desktop\WebAppOnee\IsApp\Domain\obj\Debug\net8.0\IsApp.Domain.pdb
+C:\Users\PC\Desktop\WebAppOnee\IsApp\Domain\obj\Debug\net8.0\ref\IsApp.Domain.dll

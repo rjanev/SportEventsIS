@@ -1,0 +1,44 @@
+﻿@model IsApp.Domain.Models.Player
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Player</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Surname)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Surname)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.years)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.years)
+        </dd>
+        
+       
+    </dl>
+</div>
+
+
+
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+    <a asp-route-id="@Model?.Id" class="btn btn-primary" asp-action="AddPlayerToTeam">Add Player To Team</a>
+</div>

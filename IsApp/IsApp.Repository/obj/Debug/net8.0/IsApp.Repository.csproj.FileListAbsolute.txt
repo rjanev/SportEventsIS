@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Repository\bin\Debug\net8.0\IsApp.Repository.deps.json
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Repository\bin\Debug\net8.0\IsApp.Repository.dll
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Repository\bin\Debug\net8.0\IsApp.Repository.pdb
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Repository\bin\Debug\net8.0\IsApp.Domain.dll
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Repository\bin\Debug\net8.0\IsApp.Domain.pdb
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Repository\obj\Debug\net8.0\IsApp.Repository.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Repository\obj\Debug\net8.0\IsApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Repository\obj\Debug\net8.0\IsApp.Repository.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Repository\obj\Debug\net8.0\IsApp.Repository.AssemblyInfo.cs
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Repository\obj\Debug\net8.0\IsApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Repository\obj\Debug\net8.0\IsApp.Re.FD822B80.Up2Date
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Repository\obj\Debug\net8.0\IsApp.Repository.dll
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Repository\obj\Debug\net8.0\refint\IsApp.Repository.dll
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Repository\obj\Debug\net8.0\IsApp.Repository.pdb
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Repository\obj\Debug\net8.0\ref\IsApp.Repository.dll

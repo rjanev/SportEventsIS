@@ -1,0 +1,17 @@
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Service\bin\Debug\net8.0\IsApp.Service.deps.json
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Service\bin\Debug\net8.0\IsApp.Service.dll
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Service\bin\Debug\net8.0\IsApp.Service.pdb
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Service\obj\Debug\net8.0\IsApp.Service.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Service\obj\Debug\net8.0\IsApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Service\obj\Debug\net8.0\IsApp.Service.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Service\obj\Debug\net8.0\IsApp.Service.AssemblyInfo.cs
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Service\obj\Debug\net8.0\IsApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Service\obj\Debug\net8.0\IsApp.Service.dll
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Service\obj\Debug\net8.0\refint\IsApp.Service.dll
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Service\obj\Debug\net8.0\IsApp.Service.pdb
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Service\obj\Debug\net8.0\ref\IsApp.Service.dll
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Service\bin\Debug\net8.0\IsApp.Domain.dll
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Service\bin\Debug\net8.0\IsApp.Repository.dll
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Service\bin\Debug\net8.0\IsApp.Domain.pdb
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Service\bin\Debug\net8.0\IsApp.Repository.pdb
+C:\Users\PC\Desktop\WebAppOnee\IsApp\IsApp.Service\obj\Debug\net8.0\IsApp.Se.327E5791.Up2Date
